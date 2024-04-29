@@ -1,0 +1,31 @@
+
+    • Kathbath: Word Error Rate (WER) varies across languages:
+        ? Bengali: 16.6%
+        ? Gujarati: 17.8%
+        ? Hindi: 10.3%
+        ? Kannada: 19.3%
+        ? Malayalam: 34.8%
+        ? Marathi: 19.9%
+        ? Odia: 24.7%
+        ? Punjabi: 16.9%
+        ? Sanskrit: 45.6%
+        ? Tamil: 24.2%
+        ? Telugu: 25%
+        ? Urdu: 11.9%
+        ? Average: 22.3%
+          
+    • Kathbath Hard (a more challenging subset of Kathbath):
+        ? Bengali: 19.4%
+        ? Gujarati: 20.6%
+        ? Hindi: 12.0%
+        ? Kannada: 22.2%
+        ? Malayalam: 38.4%
+        ? Marathi: 22.1%
+        ? Odia: 29.1%
+        ? Punjabi: 19.7%
+        ? Sanskrit: 50.5%
+        ? Tamil: 27.5%
+        ? Telugu: 27.8%
+        ? Urdu: 14.7%
+        ? Average: 25.3%
+
